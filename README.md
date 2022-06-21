@@ -6,5 +6,13 @@ This challenge has the objective of making a controller to a PAIONEER robot.
 The controller must be able to guide the robot through the desired path, avoiding obstacles and stopping at a certain location.
 
 ## Repository organization 
-This repository was divided in tree branches:
+This repository was divided in two branches:
+
+- controller --> is where the code for the controllers are.
+- World --> is where the code for the world is.
+
+## The challenge 
+
+
+
 
