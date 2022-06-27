@@ -47,7 +47,7 @@
 // minimal weight for the robot to turn
 #define WHEEL_WEIGHT_THRESHOLD 100
 
-#define MIN_LUMINOSITY 100000
+#define MIN_LUMINOSITY 1000
 
 // structure to store the data associated to one sensor
 typedef struct {
