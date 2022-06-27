@@ -65,6 +65,9 @@ static SensorData sensors[MAX_SENSOR_NUMBER] = {
   {.wheel_weight = {0, 0}},   {.wheel_weight = {0, 0}},   {.wheel_weight = {0, 0}},   {.wheel_weight = {0, 0}},
   {.wheel_weight = {0, 0}},   {.wheel_weight = {0, 0}},   {.wheel_weight = {0, 0}},   {.wheel_weight = {0, 0}}};
 
+}
+
+
 int main() {
   // necessary to initialize Webots
   wb_robot_init();
